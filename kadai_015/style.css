@@ -1,7 +1,10 @@
+/* root fontsize */
+html{
+  font-size: 20px;
+}
 /* font color */
 body{
   font-family: "Arial", "meiryo", sans-serif;
-  font-size: 20px;
   text-align: center;
 }
 .blue{
